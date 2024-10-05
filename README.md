@@ -1,6 +1,6 @@
 # xfactory
 
-**The First mini Project Designed By Bootstrap**
+**The second mini Project Designed By Bootstrap**
 
 [Watch Demo](https://alirezafrontend.github.io/xfactory/ "Watch Demo")
 
