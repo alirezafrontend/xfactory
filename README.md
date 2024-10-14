@@ -1,6 +1,6 @@
 # xfactory
 
-The first Project Designed By Html , Css , Bootstrap
+This factory website project is built using HTML and CSS. You can visit the demo section to see it in action.
 
 
 ![viewfinal](https://github.com/user-attachments/assets/5f6cecd4-a546-4b88-bd27-839eefb45b20)
